@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Algorithms" Database="" Version="10000">
+  <Project Name="ArrayConditional" Path="ArrayConditional/ArrayConditional.project" Active="Yes"/>
+  <Project Name="ArrayReverse" Path="VectorReverse/ArrayReverse.project" Active="No"/>
+  <Project Name="Functions" Path="Functions/Functions.project"/>
+  <Project Name="bugGame" Path="../bugGame/bugGame.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ArrayConditional" ConfigName="Debug"/>
+      <Project Name="VectorReverse" ConfigName="Debug"/>
+      <Project Name="Functions" ConfigName="Debug"/>
+      <Project Name="bugGame" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ArrayConditional" ConfigName="Release"/>
+      <Project Name="VectorReverse" ConfigName="Release"/>
+      <Project Name="Functions" ConfigName="Release"/>
+      <Project Name="bugGame" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
